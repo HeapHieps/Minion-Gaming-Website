@@ -1,0 +1,36 @@
+.Sponors-section{
+    position: absolute;
+    bottom: 0px;
+    height: 150px;
+    width: 1460px;
+    background-color: rgb(215, 190, 28);
+    z-index: -1;
+    border: 1px solid rgba(243, 255, 8, 0.1);
+    box-shadow: 0px 20px 100px rgb(0, 0, 0);
+
+    
+}
+.SponorDescription{
+    font-family:Bebas Neue;
+    position:absolute;
+    color: rgb(215, 190, 28);
+    font-size: 20px;
+    text-shadow: 5px 5px 0px rgb(0, 0, 0);
+}
+.Sponor{
+    width: 100px;
+    height: 80px;
+    top: 30px;
+    margin-left: 35px;
+    position: absolute;
+}
+.SponorCompany{
+    font-family:Bebas Neue;
+    position:absolute;
+    color: rgb(215, 190, 28);
+    font-size: 20px;
+    text-shadow: 5px 5px 0px rgb(0, 0, 0);
+    top: 115px;
+    margin-left: 20px;
+
+}
