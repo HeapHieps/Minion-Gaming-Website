@@ -13,9 +13,9 @@
 .SponorDescription{
     font-family:Bebas Neue;
     position:absolute;
-    color: rgb(215, 190, 28);
+    color: rgb(247, 248, 232);
     font-size: 20px;
-    text-shadow: 5px 5px 0px rgb(0, 0, 0);
+    text-shadow: -1px -1px 0 #2a2a2a, 1px -1px 0 #2a2a2a, -1px 1px 0 #2a2a2a, 1px 1px 0 #2a2a2a;
 }
 .Sponor{
     width: 100px;
@@ -27,9 +27,9 @@
 .SponorCompany{
     font-family:Bebas Neue;
     position:absolute;
-    color: rgb(215, 190, 28);
+    color: rgb(247, 248, 232);
+    text-shadow: 2px 2px 0px #131111;
     font-size: 20px;
-    text-shadow: 5px 5px 0px rgb(0, 0, 0);
     top: 115px;
     margin-left: 20px;
 
