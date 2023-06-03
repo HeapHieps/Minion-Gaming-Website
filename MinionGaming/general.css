@@ -12,6 +12,7 @@ body{
     background-color: rgb(37,37,38);
     height: 1000px;
 }
+
 .background{
     opacity: .1;
     margin-left: 250px;
@@ -20,6 +21,7 @@ body{
     height: 1000px;
     z-index: 200;
 }
+
 .Content{
     position: relative;
     width: 1360px;
